@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @papamike08
-- 👀 I’m interested in Developing
+- 👀 I’m interested in Developing System
 - 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Developer
+- 📫 How to reach me @bombeiro.oliveirace
+- 😄 Pronouns: Bombeiro Oliveira
+- ⚡ Fun fact: I love Travel
 
 <!---
 papamike08/papamike08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
