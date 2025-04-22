@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @papamike08
 - 👀 I’m interested in Developing System
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Developer
+- 🌱 I’m currently learning Full Stack Developed
+- 💞️ I’m looking to collaborate on Developed
 - 📫 How to reach me @bombeiro.oliveirace
 - 😄 Pronouns: Bombeiro Oliveira
 - ⚡ Fun fact: I love Travel
